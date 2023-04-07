@@ -35,6 +35,4 @@ Used my previous knowledge and some general internet searching to find ways to c
 - Frontend Mentor - [@wmohammad83](https://www.frontendmentor.io/profile/wmohammad83)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 
